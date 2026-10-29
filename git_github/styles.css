@@ -3,3 +3,14 @@ h1 {
     font-family: Arial, helvetica, sans-serif;
     color: blue;
 }
+/* Mejora de estilos - Laboratorio Semana 7 */
+
+h2 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
